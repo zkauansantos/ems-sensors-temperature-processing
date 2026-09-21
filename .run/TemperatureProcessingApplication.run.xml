@@ -3,7 +3,7 @@
     <module name="temperature-processing.main" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="com.zkauansantos.sensors.temperature.processing.TemperatureProcessingApplication" />
     <option name="VM_PARAMETERS" value="-XX:MaxRAM=256m" />
-    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/microsservices/ems-sensors-temperature-processing" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/microsservices/temperature-processing" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="com.zkauansantos.sensors.temperature.processing.*" />
